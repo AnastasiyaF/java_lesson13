@@ -1,0 +1,8 @@
+category_1;code_1;2001/01/01;annotation_1_str454564
+category_2;code_2;2008/01/14;annotation_2_str46256
+category_3;code_3;2004/12/06;annotation_3_str4534
+category_4;code_4;2009/01/08;annotation_4_str45324
+category_5;code_5;2005/11/09;annotation_5_str4934
+category_6;code_6;2003/05/30;annotation_6_str4523
+category_7;code_7;2002/01/31;annotation_7_str434i
+category_8;code_28;2009/01/08;annotation_8_str4539
